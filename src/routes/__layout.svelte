@@ -1,7 +1,10 @@
-<script> 
-import "../app.css"; 
-</script>
+<script>
+// @ts-nocheck
 
-<main>
-    <slot /> 
-</main>
+    import "../app.css";
+  </script>
+  
+  <main>
+    <slot />
+  </main>
+  
